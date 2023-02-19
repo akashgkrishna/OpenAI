@@ -18,7 +18,7 @@ public class ApiExampleTest extends APITest {
     @Test(groups = "api", description = "Should get address by query parameter")
     public void shouldGetAddressSuccessfully() {
 
-        // 1. Arrange
+        // 1. Arrange  Sample
         int addressId = 1;
 
         // 2. Act
